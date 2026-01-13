@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Alice, a data scientist with a passion for transforming data into actionable insights. My journey in data science began with a fascination for uncovering hidden patterns and using them to solve real-world problems. 
-- 👀 I’m interested in predictive modeling, data mining, machine learning, data visualization and statistical analysis
-- 🌱 I’m currently learning advanced machine learning and big data technologies
-- ✍🏻 I'm working on exciting projects involving predictive modeling and data visualization
-- 💬 Ask me about data analysis, machine learning algorithm, and python programming
+- 👋 Hi, I’m Alice, a cybersecurity enthusiast with a passion for protecting systems and turning security data into actionable insights. My journey in cybersecurity began with a fascination for identifying vulnerabilities, analyzing threats, and ensuring compliance with international standards.
+
+👀 I’m interested in SOC operations, threat detection, cybersecurity audits, ISO/IEC 27001 & ISO/IEC 42001 compliance, and risk management  
+🌱 I’m currently learning defensive security, incident response, and security monitoring tools  
+✍🏻 I'm working on exciting projects involving SOC labs, vulnerability assessments, and audit preparation  
+💬 Ask me about cybersecurity fundamentals, SOC operations, ISO compliance, and risk analysis
+
 - 📫 How to reach me : lolabankole2410@gmail.com
 - 😄 Pronouns: She/Her
 
